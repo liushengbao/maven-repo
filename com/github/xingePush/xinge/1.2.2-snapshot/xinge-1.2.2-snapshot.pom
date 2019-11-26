@@ -13,7 +13,8 @@
 
     <url>https://github.com/liushengbao/maven-repo</url>
 
-
+	<!-- 上传命令 clean install deploy -->
+	
     <licenses>
         <license>
             <name>The Apache Software License, Version 2.0</name>
